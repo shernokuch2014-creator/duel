@@ -1,0 +1,14 @@
+# Tayyor map ishlatish:
+# 1) Map papkasini (ichida level.dat va region/ bor) plugins/Duel/template/ ga tashlang
+# 2) Pastdagi koordinatalarni mapingizdagi ikki o'yinchi turadigan joyga moslang
+#    (Minecraftda F3 bilan koordinata ko'rasiz; yaw: 0=janub, 90=g'arb, 180=shimol, -90=sharq)
+spawn-a:
+  x: 0.5
+  y: 65
+  z: -20.5
+  yaw: 0
+spawn-b:
+  x: 0.5
+  y: 65
+  z: 20.5
+  yaw: 180

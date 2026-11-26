@@ -1,0 +1,9 @@
+name: Duel
+version: 1.0
+main: uz.duel.DuelPlugin
+api-version: '1.21'
+description: Menu orqali duel plugini
+commands:
+  duel:
+    description: Duel menyusini ochadi
+    usage: /duel
